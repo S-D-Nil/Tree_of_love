@@ -83,3 +83,16 @@ a {
 .space {
 	margin-right: 150px;
 }
+
+.about {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20vh;
+}
+
+.bx {
+	color: black;
+	margin: 25px;
+	font-size: 65px;
+}
