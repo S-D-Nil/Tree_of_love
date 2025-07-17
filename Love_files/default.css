@@ -1,15 +1,15 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #ffc0cb;
+	background: #000;
 	font-size: 20px;
 	font-family: '微软雅黑', '宋体', sans-serif;
-	color: #000000;
+	color: #fff;
 	overflow: auto
 }
 
 a {
-	color: #000;
+	color: #fff;
 	font-size: 14px;
 }
 
@@ -92,7 +92,7 @@ a {
 }
 
 .bx {
-	color: black;
+	color: #fff;
 	margin: 25px;
 	font-size: 65px;
 }
