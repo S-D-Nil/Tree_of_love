@@ -88,11 +88,11 @@ a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 20vh;
+	height: 25vh;
 }
 
 .bx {
 	color: #fff;
-	margin: 25px;
-	font-size: 65px;
+	margin: 15px;
+	font-size: 35px;
 }
